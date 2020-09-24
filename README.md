@@ -2,8 +2,8 @@
  
 # Features
 
--Simple CSV parser
--Convert CSV files To ScriptableObjects
+-Simple CSV parser /n
+-Convert CSV files To ScriptableObjects/n
 -Simple item object
 -Drag&Drop
 -Simple ObjectPooling
